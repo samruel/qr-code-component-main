@@ -86,8 +86,8 @@ body {
 }
 
 .qr-container {
-  margin-top: 10%;
-  max-width: 280px;
+  margin-top: 15%;
+  max-width: 300px;
   padding: 15px;
   border: 1px solid --container-color;
   border-radius: 20px;
@@ -113,7 +113,7 @@ body {
 }
 
 .qr-code-text {
-    color: var(--text-color);
-    font-size: 1.5rem;
-    margin-bottom: 20px;
+  color: var(--text-color);
+  font-size: 1.5rem;
+  margin-bottom: 20px;
 }
