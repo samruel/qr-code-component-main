@@ -81,8 +81,13 @@ body {
   font-style: normal;
   font-size: 16px;
   background-color: var(--background-color);
+}
+
+main {
+  height: 100vh;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .qr-container {
